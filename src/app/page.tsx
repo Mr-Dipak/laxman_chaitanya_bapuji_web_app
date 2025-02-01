@@ -12,7 +12,7 @@ export default function Home() {
               <span className="font-semibold">श्री राधा माधव मंदिर</span>
             </div>
             <div className="text-sm font-medium animate-pulse">
-              वेबसाइट जल्द आ रही है...
+              वेबसाइट लवकरच येत आहे...
             </div>
           </nav>
         </div>
