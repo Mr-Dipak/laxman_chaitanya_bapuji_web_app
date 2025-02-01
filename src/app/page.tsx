@@ -76,10 +76,13 @@ export default function Home() {
                 <div className="text-gray-800 text-sm mb-4 text-center font-medium">
                   Powered by Razorpay
                 </div>
-                <img
+                <Image
                   src="/qr-code.png"
                   alt="UPI QR Code"
-                  className="mx-auto w-full max-w-[200px]"
+                  width={200}
+                  height={200}
+                  className="mx-auto"
+                  priority
                 />
                 <p className="text-gray-800 text-sm mt-4 text-center font-medium">
                   कोणत्याही UPI ऍप द्वारे स्कॅन करा आणि पेमेंट करा
