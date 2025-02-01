@@ -114,7 +114,6 @@ export default function Home() {
             </h3>
             <div className="grid grid-cols-2 gap-4 text-center text-lg">
               <a href="tel:8975852179" className="hover:text-orange-600">8975852179</a>
-              <a href="tel:8888075197" className="hover:text-orange-600">8888075197</a>
             </div>
           </div>
         </section>
